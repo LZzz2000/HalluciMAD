@@ -14,7 +14,7 @@ cd HalluciMAD
 
 2. Install Package
 
-```shell
+```
 tqdm
 time
 google-generativeai
@@ -31,7 +31,7 @@ Please download the image package of [val2014](https://cocodataset.org/#download
 
 The annotation files have been downloaded.
 
-```shell
+```
 ./HalluciMAD/data/val2014
 ./HalluciMAD/data/coco_pope_random.json
 ./HalluciMAD/data/coco_pope_popular.json
