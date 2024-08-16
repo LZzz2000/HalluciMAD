@@ -27,7 +27,7 @@ json
 
 ## Download Dataset
 
-Please download the image package of [val2014](https://cocodataset.org/#download) and extract it to the ```data``` directory.  
+Please download [val2014](https://cocodataset.org/#download) and extract it to the ```data``` directory.  
 
 The annotation files have been downloaded.
 
